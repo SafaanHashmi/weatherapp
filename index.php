@@ -23,7 +23,7 @@ if(isset($_POST['submit'])){
    <head>
       <meta charset="UTF-8">
 	  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-      <title>Weather Card</title>
+      <title>Weather Inspect</title>
 	  
 	  <!--Favicon -->
 	  <link href="favicon.png" rel="icon">
@@ -230,7 +230,7 @@ if(isset($_POST['submit'])){
 	  	  
 	  <div class="footerend">
 		<div class="credits">
-			<p> Weather Card by <a href="https://safaanhashmi.herokuapp.com" style="text-decoration:none; font-size:20px; color:red;" target="_blank">Safaan </a> </p>
+			<p> Weather Inspect by <a href="https://safaanhashmi.herokuapp.com" style="text-decoration:none; font-size:20px; color:red;" target="_blank">Safaan </a> </p>
 		</div>
 	  </div>
 	</div>  
